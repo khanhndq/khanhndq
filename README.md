@@ -57,15 +57,15 @@
 
 ---
 
-## 🚀 Featured Work
+## 🚀 What I've Built
 
-| Project | Role | Highlights |
-|---------|------|-----------|
-| **Smart Companion** — AI personal assistant | Agent AI Developer | MCP tool-orchestration across Google Calendar/Gmail/Tasks, Hume EVI empathic voice, Node.js/Python on AWS Lambda + DynamoDB, Pinecone/FAISS memory |
-| **Agent Guru** — Insurance AI assistant | Agent AI Developer | LLM-driven conversational flows, Pinecone semantic search, Node.js/Python, Azure & AWS, Dockerized services |
-| **Amaze E-commerce** | Backend Developer | Golang microservices, PostgreSQL schema design, GitLab CI/CD |
-| **Jobseeker** | Backend Developer | NestJS microservices, scalable DB architecture, design patterns |
-| **BitCityZ** — Web3 / NFT social network | Backend Developer | Solidity smart-contract integration, NestJS + ReactJS admin panel, Golang microservices |
+| Domain | Role | Highlights |
+|--------|------|-----------|
+| **AI personal assistant** | Agent AI Developer | MCP tool-orchestration across calendar/email/tasks, empathic voice interaction, Node.js/Python on AWS Lambda + DynamoDB, Pinecone/FAISS memory |
+| **AI assistant (insurance domain)** | Agent AI Developer | LLM-driven conversational flows, vector-based semantic search, Node.js/Python, Azure & AWS, Dockerized services |
+| **E-commerce platform** | Backend Developer | Golang microservices, PostgreSQL schema design, GitLab CI/CD |
+| **Job-search platform** | Backend Developer | NestJS microservices, scalable DB architecture, design patterns |
+| **Web3 / NFT social network** | Backend Developer | Solidity smart-contract integration, NestJS + ReactJS admin panel, Golang microservices |
 
 ---
 
