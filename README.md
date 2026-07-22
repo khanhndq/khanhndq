@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Khanh+Nguyen+%F0%9F%91%8B;Backend+%26+AI+Agent+Developer;Building+scalable+APIs+and+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Khanh+Nguyen+%F0%9F%91%8B;Backend+%26+AI+Agent+Developer;Building+scalable+APIs+and+intelligent+systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhndq&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=khanhndq&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
