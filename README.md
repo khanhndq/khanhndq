@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Khanh+%F0%9F%91%8B;Full-stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Khanh+Nguyen+%F0%9F%91%8B;Backend+%26+AI+Agent+Developer;Building+scalable+APIs+and+intelligent+systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,42 +11,61 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 I'm currently working as a **Full-stack Developer**
-- 🌱 I'm continuously learning new technologies and best practices
-- 💬 Ask me about **web development, APIs, and system design**
-- ⚡ Fun fact: I love turning ideas into working products
+- 🧠 Software developer with several years of experience in **backend development**, **AI agents**, **E-commerce platforms**, and **APIs**
+- 🤖 I build **AI-powered assistants** using LLMs, MCP tool-orchestration, and vector databases
+- 🏗️ Strong at designing **scalable, event-driven & microservices** architectures
+- 🎓 Bachelor's & Master's in **Computer Software Engineering** — FPT University
+- 📍 Based in **Ho Chi Minh City, Vietnam**
+- 💬 Ask me about **backend systems, AI agents, and system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Database & DevOps
+### Backend & Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### AI / Agents
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Orchestration-2E9EF7?style=for-the-badge&logo=anthropic&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+| Project | Role | Highlights |
+|---------|------|-----------|
+| **Smart Companion** — AI personal assistant | Agent AI Developer | MCP tool-orchestration across Google Calendar/Gmail/Tasks, Hume EVI empathic voice, Node.js/Python on AWS Lambda + DynamoDB, Pinecone/FAISS memory |
+| **Agent Guru** — Insurance AI assistant | Agent AI Developer | LLM-driven conversational flows, Pinecone semantic search, Node.js/Python, Azure & AWS, Dockerized services |
+| **Amaze E-commerce** | Backend Developer | Golang microservices, PostgreSQL schema design, GitLab CI/CD |
+| **Jobseeker** | Backend Developer | NestJS microservices, scalable DB architecture, design patterns |
+| **BitCityZ** — Web3 / NFT social network | Backend Developer | Solidity smart-contract integration, NestJS + ReactJS admin panel, Golang microservices |
 
 ---
 
@@ -61,23 +80,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhndq&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanhndq&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/khanhndq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:khanhndq01091999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/khanh-nguyen-540991237">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/khanhndq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
